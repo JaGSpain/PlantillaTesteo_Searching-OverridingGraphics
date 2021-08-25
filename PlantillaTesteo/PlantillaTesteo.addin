@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Jag Dev App</Name>
+    <Assembly>PlantillaTesteo.dll</Assembly>
+    <AddInId>29E87DDC-D741-4598-824E-E2A4D95408FA</AddInId>
+    <FullClassName>PlantillaTesteo.App</FullClassName>
+    <VendorId>Jag Dev</VendorId>
+    <VendorDescription></VendorDescription>
+  </AddIn>
+</RevitAddIns>
